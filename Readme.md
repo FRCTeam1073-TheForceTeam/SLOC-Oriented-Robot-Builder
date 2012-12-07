@@ -4,6 +4,11 @@ This program is a modification of the code generating export functions from Brad
 
 This fork exists because the original program, while useful, generated way TOO many comments and other obstructions throughout my code. I generally do not care very much about SLOC or anything like that, but this just got too obnoxious. That said, the tool itself is pretty cool though.
 
+Usage
+-------
+In `/dist/tools/` there is a jar called RobotBuilder.jar
+Run that. By default, NetBeans will spit the compiled jar executable here after each build.
+
 Main Diffrerences
 -----------------
 Comments still exist, but these are ones that I have deemed meaningful. If you disagree you can go fork this.
