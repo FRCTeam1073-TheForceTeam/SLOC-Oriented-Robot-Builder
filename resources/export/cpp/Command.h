@@ -8,11 +8,7 @@
 \#include "Commands/Subsystem.h"
 \#include "../Robot.h"
 
-/**
- *
- *
- * @author ExampleAuthor
- */
+
 class #class($command.name): public Command {
 public:
 	#class($command.name)();
