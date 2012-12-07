@@ -2,7 +2,7 @@ SLOC Orientated Robot Builder
 =============
 This program is a modification of the code generating export functions from Brad Miller's and Alex Henning's FRC Code Template tool called Robot Builder. It can be found at http://firstforge.wpi.edu
 
-This fork exists because the original program, while useful, generated way TOO many comments and other obstructions throughout my code. I generally do not care very much about SLOC or anything like that, but this just got too obnoxious. That said, the tool itself is pretty cool though.
+This fork exists because the original program, while useful, generated way TOO many comments and other obstructions throughout our code. Personally, I generally do not care very much about SLOC or anything like that, but this just got too obnoxious for my own tastes and usage style, so I cleaned it up to better reflect how I like to look at source code. That said, the tool itself is pretty amazing, and our team strongly urges you to download it!
 
 Usage
 -------
