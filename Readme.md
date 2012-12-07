@@ -22,5 +22,5 @@ Custom Headers
 Additionally, the call to generate a header for a file is still in each template, however, the call ammends an empty String. This functionality exists so that you can flexibly add your own headers into the files that Robot Builder generates.
 
 To modify the header macro, simply go into the appropriate macros.vm file for each language (Java or C++)
-C++:	'/resources/export/cpp/macros.vm'
-Java:	'/resources/export/java/macros.vm'
+C++:	`/resources/export/cpp/macros.vm`
+Java:	`/resources/export/java/macros.vm`
