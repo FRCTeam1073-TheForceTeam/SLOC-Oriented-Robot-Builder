@@ -1,4 +1,4 @@
-SLOC Orientated Robot Builder
+SLOC Oriented Robot Builder
 =============
 This program is a modification of the code generating export functions from Brad Miller's and Alex Henning's FRC Code Template tool called Robot Builder. It can be found at http://firstforge.wpi.edu
 
